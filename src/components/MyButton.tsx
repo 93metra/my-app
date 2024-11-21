@@ -1,3 +1,5 @@
+import React from 'react';
+
 interface MyButtonProps {
   onClick?: () => void
   children?: React.ReactNode
